@@ -20,4 +20,8 @@ The analysis highlights salary differences across company sizes (small, medium, 
 
 For example, the "Salary Average by Company Size" chart compares average salaries by company size, while the "Salary Average by Experience Level" chart shows how salary progresses with experience.
 [Data Area Average Salary 2024.pdf](https://github.com/user-attachments/files/18645335/Data.Area.Average.Salary.2024.pdf)
+<br>
+
+![Captura de tela 2025-02-03 134308](https://github.com/user-attachments/assets/10d0619d-f43c-455b-889a-4872b061ed0b)
+
 
